@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caio-freitas&theme=graywhite)](https://github.com/caio-freitas)
+
+![Caio's Github Stats](https://github-readme-stats.vercel.app/api?username=caio-freitas&count_private=true&show_icons=true&hide=contribs&theme=graywhite)
+
 <!--
 **caio-freitas/caio-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
